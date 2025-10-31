@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MasoMenos — ¿Qué tan ARMY eres?</title>
+  <meta name="description" content="MasoMenos: el juego de 'Más o Menos' con cuatro modos — Población, Universo, Marvel y BTS.">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%237aa6ff'/%3E%3Ctext x='32' y='40' text-anchor='middle' font-size='28' font-weight='800' fill='white'%3EMM%3C/text%3E%3C/svg%3E">
+  <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXXXXXXXX">
+  <!-- Google AdSense (auto ads) -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+  <!-- Google Search Console (add your verification meta when available) -->
+  <!-- <meta name="google-site-verification" content="PASTE_CODE_HERE"> -->
+</head>
+<body>
+  <header class="header">
+    <div class="wrap">
+      <div class="brand">MasoMenos</div>
+      <nav class="nav" id="modeNav"></nav>
+      <div class="lang-switch">
+        <button data-lang="es" id="langES">ES</button>
+        <button data-lang="en" id="langEN">EN</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="question" id="question"></div>
+
+    <section class="board" id="board">
+      <!-- Cards injected by JS -->
+    </section>
+
+    <div class="controls">
+      <button id="btnContinue">Continuar</button>
+      <button id="btnRestart" class="secondary">Reiniciar</button>
+    </div>
+
+    <div class="stats">
+      <span id="score">0</span> ✅ — <span id="best">Récord: 0</span>
+    </div>
+
+    <div class="footer">
+      <p>© <span id="year"></span> MasoMenos — Made for fun. Imágenes: banderas vía FlagCDN (dominio público) y placeholders SVG propios.</p>
+    </div>
+  </main>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
