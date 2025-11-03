@@ -1,517 +1,517 @@
 [
   {
     "name": "The One Above All",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='The'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>The</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/the-one-above-all.png",
     "value": 100
   },
   {
     "name": "The Presence (Marvel)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='The'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>The</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/the-presence-marvel.png",
     "value": 99
   },
   {
     "name": "Living Tribunal",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Living'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Living</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/living-tribunal.png",
     "value": 98
   },
   {
     "name": "Beyonder",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Beyonder'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Beyonder</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/beyonder.png",
     "value": 97
   },
   {
     "name": "Molecule Man",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Molecule'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Molecule</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/molecule-man.png",
     "value": 96
   },
   {
     "name": "Eternity",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Eternity'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Eternity</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/eternity.png",
     "value": 95
   },
   {
     "name": "Infinity",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Infinity'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Infinity</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/infinity.png",
     "value": 95
   },
   {
     "name": "Galactus (Full Power)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Galactus'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Galactus</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/galactus-full-power.png",
     "value": 94
   },
   {
     "name": "Oblivion",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Oblivion'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Oblivion</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/oblivion.png",
     "value": 94
   },
   {
     "name": "Phoenix Force (White)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Phoenix'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Phoenix</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/phoenix-force-white.png",
     "value": 93
   },
   {
     "name": "Franklin Richards",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Franklin'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Franklin</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/franklin-richards.png",
     "value": 92
   },
   {
     "name": "Celestials (Host)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Celestials'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Celestials</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/celestials-host.png",
     "value": 91
   },
   {
     "name": "Heart of the Universe Thanos",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Heart'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Heart</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/heart-of-the-universe-thanos.png",
     "value": 91
   },
   {
     "name": "Lord Chaos & Master Order",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lord'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lord</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/lord-chaos-master-order.png",
     "value": 90
   },
   {
     "name": "The Fulcrum",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='The'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>The</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/the-fulcrum.png",
     "value": 90
   },
   {
     "name": "Death (Marvel)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Death'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Death</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/death-marvel.png",
     "value": 90
   },
   {
     "name": "Phoenix Force (Dark)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Phoenix'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Phoenix</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/phoenix-force-dark.png",
     "value": 89
   },
   {
     "name": "Rune King Thor",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Rune'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Rune</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/rune-king-thor.png",
     "value": 89
   },
   {
     "name": "Chaos War Hercules",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Chaos'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Chaos</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/chaos-war-hercules.png",
     "value": 88
   },
   {
     "name": "Worldbreaker Hulk",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Worldbreaker'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Worldbreaker</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/worldbreaker-hulk.png",
     "value": 88
   },
   {
     "name": "Classic Doctor Strange (Eternity scale)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Classic'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Classic</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/classic-doctor-strange-eternity-scale.png",
     "value": 87
   },
   {
     "name": "Sentry (The Void)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Sentry'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Sentry</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/sentry-the-void.png",
     "value": 87
   },
   {
     "name": "Silver Surfer (amped)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Silver'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Silver</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/silver-surfer-amped.png",
     "value": 86
   },
   {
     "name": "Blue Marvel",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Blue'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Blue</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/blue-marvel.png",
     "value": 85
   },
   {
     "name": "Scarlet Witch (House of M)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Scarlet'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Scarlet</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/scarlet-witch-house-of-m.png",
     "value": 85
   },
   {
     "name": "Adam Warlock (Soul Gem)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Adam'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Adam</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/adam-warlock-soul-gem.png",
     "value": 84
   },
   {
     "name": "Doctor Doom (God Emperor)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Doctor'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Doctor</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/doctor-doom-god-emperor.png",
     "value": 84
   },
   {
     "name": "Thanos (IG incomplete)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Thanos'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Thanos</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/thanos-ig-incomplete.png",
     "value": 83
   },
   {
     "name": "Thor (Odinforce)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Thor'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Thor</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/thor-odinforce.png",
     "value": 83
   },
   {
     "name": "Odin",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Odin'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Odin</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/odin.png",
     "value": 82
   },
   {
     "name": "Zeus (Marvel)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Zeus'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Zeus</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/zeus-marvel.png",
     "value": 81
   },
   {
     "name": "Hulk (Immortal)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Hulk'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Hulk</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/hulk-immortal.png",
     "value": 80
   },
   {
     "name": "Hyperion",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Hyperion'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Hyperion</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/hyperion.png",
     "value": 79
   },
   {
     "name": "Beta Ray Bill",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Beta'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Beta</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/beta-ray-bill.png",
     "value": 78
   },
   {
     "name": "Magneto",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Magneto'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Magneto</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/magneto.png",
     "value": 77
   },
   {
     "name": "Doctor Strange",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Doctor'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Doctor</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/doctor-strange.png",
     "value": 76
   },
   {
     "name": "Captain Marvel (Carol Danvers)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Captain'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Captain</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/captain-marvel-carol-danvers.png",
     "value": 75
   },
   {
     "name": "Gladiator",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Gladiator'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Gladiator</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/gladiator.png",
     "value": 75
   },
   {
     "name": "Ikaris",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Ikaris'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Ikaris</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/ikaris.png",
     "value": 74
   },
   {
     "name": "Apocalypse",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Apocalypse'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Apocalypse</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/apocalypse.png",
     "value": 74
   },
   {
     "name": "Namor (amped)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Namor'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Namor</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/namor-amped.png",
     "value": 73
   },
   {
     "name": "Storm (Omega)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Storm'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Storm</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/storm-omega.png",
     "value": 73
   },
   {
     "name": "Iron Man (Bleeding Edge)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Iron'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Iron</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/iron-man-bleeding-edge.png",
     "value": 72
   },
   {
     "name": "Black Bolt",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Black'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Black</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/black-bolt.png",
     "value": 72
   },
   {
     "name": "Ghost Rider (Johnny Blaze)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Ghost'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Ghost</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/ghost-rider-johnny-blaze.png",
     "value": 71
   },
   {
     "name": "Spider-Man (Peter Parker)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Spider-Man'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Spider-Man</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/spider-man-peter-parker.png",
     "value": 70
   },
   {
     "name": "Venom (Eddie Brock, King in Black)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Venom'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Venom</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/venom-eddie-brock-king-in-black.png",
     "value": 78
   },
   {
     "name": "Knull",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Knull'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Knull</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/knull.png",
     "value": 90
   },
   {
     "name": "Wolverine",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Wolverine'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Wolverine</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/wolverine.png",
     "value": 68
   },
   {
     "name": "Deadpool",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Deadpool'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Deadpool</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/deadpool.png",
     "value": 68
   },
   {
     "name": "Daredevil",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Daredevil'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Daredevil</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/daredevil.png",
     "value": 60
   },
   {
     "name": "Punisher",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Punisher'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Punisher</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/punisher.png",
     "value": 58
   },
   {
     "name": "Hawkeye",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Hawkeye'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Hawkeye</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/hawkeye.png",
     "value": 57
   },
   {
     "name": "Ant-Man (Scott Lang)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Ant-Man'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Ant-Man</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/ant-man-scott-lang.png",
     "value": 60
   },
   {
     "name": "Wasp (Janet)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Wasp'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Wasp</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/wasp-janet.png",
     "value": 62
   },
   {
     "name": "Vision",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Vision'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Vision</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/vision.png",
     "value": 72
   },
   {
     "name": "Quicksilver",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Quicksilver'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Quicksilver</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/quicksilver.png",
     "value": 70
   },
   {
     "name": "Colossus",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Colossus'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Colossus</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/colossus.png",
     "value": 70
   },
   {
     "name": "Juggernaut",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Juggernaut'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Juggernaut</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/juggernaut.png",
     "value": 79
   },
   {
     "name": "Professor X",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Professor'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Professor</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/professor-x.png",
     "value": 74
   },
   {
     "name": "Jean Grey (Omega)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Jean'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Jean</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/jean-grey-omega.png",
     "value": 84
   },
   {
     "name": "Emma Frost",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Emma'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Emma</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/emma-frost.png",
     "value": 72
   },
   {
     "name": "Rogue",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Rogue'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Rogue</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/rogue.png",
     "value": 71
   },
   {
     "name": "Cable",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Cable'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Cable</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/cable.png",
     "value": 74
   },
   {
     "name": "Bishop",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Bishop'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Bishop</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/bishop.png",
     "value": 70
   },
   {
     "name": "Captain America",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Captain'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Captain</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/captain-america.png",
     "value": 65
   },
   {
     "name": "Winter Soldier",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Winter'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Winter</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/winter-soldier.png",
     "value": 64
   },
   {
     "name": "Black Panther",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Black'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Black</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/black-panther.png",
     "value": 70
   },
   {
     "name": "Shang-Chi",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Shang-Chi'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Shang-Chi</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/shang-chi.png",
     "value": 66
   },
   {
     "name": "Moon Knight",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Moon'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Moon</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/moon-knight.png",
     "value": 66
   },
   {
     "name": "She-Hulk",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='She-Hulk'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>She-Hulk</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/she-hulk.png",
     "value": 73
   },
   {
     "name": "Ms. Marvel (Kamala)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Ms.'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Ms.</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/ms-marvel-kamala.png",
     "value": 63
   },
   {
     "name": "America Chavez",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='America'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>America</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/america-chavez.png",
     "value": 74
   },
   {
     "name": "Loki",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Loki'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Loki</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/loki.png",
     "value": 80
   },
   {
     "name": "Hela",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Hela'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Hela</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/hela.png",
     "value": 82
   },
   {
     "name": "Surtur",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Surtur'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Surtur</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/surtur.png",
     "value": 88
   },
   {
     "name": "Dormammu",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Dormammu'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Dormammu</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/dormammu.png",
     "value": 90
   },
   {
     "name": "Mephisto",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Mephisto'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Mephisto</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/mephisto.png",
     "value": 86
   },
   {
     "name": "Ultron",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Ultron'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Ultron</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/ultron.png",
     "value": 76
   },
   {
     "name": "Kang the Conqueror",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Kang'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Kang</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/kang-the-conqueror.png",
     "value": 80
   },
   {
     "name": "Doctor Octopus",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Doctor'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Doctor</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/doctor-octopus.png",
     "value": 65
   },
   {
     "name": "Green Goblin",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Green'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Green</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/green-goblin.png",
     "value": 64
   },
   {
     "name": "Mysterio",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Mysterio'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Mysterio</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/mysterio.png",
     "value": 60
   },
   {
     "name": "Electro",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Electro'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Electro</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/electro.png",
     "value": 62
   },
   {
     "name": "Sandman",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Sandman'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Sandman</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/sandman.png",
     "value": 66
   },
   {
     "name": "Carnage",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Carnage'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Carnage</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/carnage.png",
     "value": 74
   },
   {
     "name": "Miles Morales",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Miles'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Miles</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/miles-morales.png",
     "value": 69
   },
   {
     "name": "Gwen Stacy (Spider-Gwen)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Gwen'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Gwen</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/gwen-stacy-spider-gwen.png",
     "value": 68
   },
   {
     "name": "Star-Lord",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Star-Lord'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Star-Lord</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/star-lord.png",
     "value": 64
   },
   {
     "name": "Gamora",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Gamora'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Gamora</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/gamora.png",
     "value": 70
   },
   {
     "name": "Drax",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Drax'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Drax</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/drax.png",
     "value": 69
   },
   {
     "name": "Groot",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Groot'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Groot</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/groot.png",
     "value": 68
   },
   {
     "name": "Rocket Raccoon",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Rocket'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Rocket</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/rocket-raccoon.png",
     "value": 60
   },
   {
     "name": "Yondu",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Yondu'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Yondu</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/yondu.png",
     "value": 60
   },
   {
     "name": "Nebula",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Nebula'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Nebula</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/nebula.png",
     "value": 68
   },
   {
     "name": "Nick Fury",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Nick'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Nick</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/nick-fury.png",
     "value": 58
   },
   {
     "name": "Phil Coulson",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Phil'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Phil</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/phil-coulson.png",
     "value": 55
   },
   {
     "name": "Agent Carter",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Agent'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Agent</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/agent-carter.png",
     "value": 56
   },
   {
     "name": "Luke Cage",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Luke'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Luke</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/luke-cage.png",
     "value": 72
   },
   {
     "name": "Iron Fist",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Iron'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Iron</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/iron-fist.png",
     "value": 70
   },
   {
     "name": "Blade",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Blade'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Blade</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/blade.png",
     "value": 69
   },
   {
     "name": "Silver Samurai",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Silver'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Silver</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/silver-samurai.png",
     "value": 67
   },
   {
     "name": "Kitty Pryde",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Kitty'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Kitty</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>Marvel</text>  </svg>",
+    "image": "assets/img/marvel/kitty-pryde.png",
     "value": 67
   }
 ]

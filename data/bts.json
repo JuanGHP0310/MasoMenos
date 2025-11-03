@@ -1,502 +1,502 @@
 [
   {
     "name": "Jin",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Jin'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Jin</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/jin.png",
     "value": 33
   },
   {
     "name": "Suga",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Suga'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Suga</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/suga.png",
     "value": 32
   },
   {
     "name": "J-Hope",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='J-Hope'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>J-Hope</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/j-hope.png",
     "value": 31
   },
   {
     "name": "RM",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='RM'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>RM</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/rm.png",
     "value": 31
   },
   {
     "name": "Jimin",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Jimin'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Jimin</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/jimin.png",
     "value": 30
   },
   {
     "name": "V",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='V'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>V</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/v.png",
     "value": 30
   },
   {
     "name": "Jungkook",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Jungkook'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Jungkook</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/jungkook.png",
     "value": 28
   },
   {
     "name": "No More Dream (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='No'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>No</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/no-more-dream-cancion.png",
     "value": 12
   },
   {
     "name": "We Are Bulletproof Pt.2 (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='We'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>We</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/we-are-bulletproof-pt-2-cancion.png",
     "value": 12
   },
   {
     "name": "Skool Luv Affair (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Skool'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Skool</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/skool-luv-affair-album.png",
     "value": 11
   },
   {
     "name": "Dark & Wild (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Dark'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Dark</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/dark-wild-album.png",
     "value": 11
   },
   {
     "name": "I Need U (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='I'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>I</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/i-need-u-cancion.png",
     "value": 10
   },
   {
     "name": "The Most Beautiful Moment in Life, Pt.1 (EP)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='The'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>The</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/the-most-beautiful-moment-in-life-pt-1-ep.png",
     "value": 10
   },
   {
     "name": "Run (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Run'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Run</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/run-cancion.png",
     "value": 10
   },
   {
     "name": "Fire (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Fire'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Fire</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/fire-cancion.png",
     "value": 9
   },
   {
     "name": "Wings (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Wings'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Wings</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/wings-album.png",
     "value": 9
   },
   {
     "name": "Blood Sweat & Tears (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Blood'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Blood</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/blood-sweat-tears-cancion.png",
     "value": 9
   },
   {
     "name": "Spring Day (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Spring'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Spring</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/spring-day-cancion.png",
     "value": 8
   },
   {
     "name": "DNA (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='DNA'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>DNA</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/dna-cancion.png",
     "value": 8
   },
   {
     "name": "Love Yourself: Her (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Love'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Love</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/love-yourself-her-album.png",
     "value": 8
   },
   {
     "name": "Love Yourself: Tear (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Love'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Love</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/love-yourself-tear-album.png",
     "value": 7
   },
   {
     "name": "Love Yourself: Answer (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Love'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Love</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/love-yourself-answer-album.png",
     "value": 7
   },
   {
     "name": "Fake Love (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Fake'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Fake</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/fake-love-cancion.png",
     "value": 7
   },
   {
     "name": "Boy With Luv (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Boy'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Boy</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/boy-with-luv-cancion.png",
     "value": 6
   },
   {
     "name": "Map of the Soul: Persona (EP)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Map'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Map</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/map-of-the-soul-persona-ep.png",
     "value": 6
   },
   {
     "name": "Map of the Soul: 7 (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Map'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Map</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/map-of-the-soul-7-album.png",
     "value": 5
   },
   {
     "name": "Dynamite (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Dynamite'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Dynamite</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/dynamite-cancion.png",
     "value": 5
   },
   {
     "name": "BE (álbum)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='BE'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>BE</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/be-album.png",
     "value": 5
   },
   {
     "name": "Butter (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Butter'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Butter</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/butter-cancion.png",
     "value": 4
   },
   {
     "name": "Permission to Dance (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Permission'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Permission</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/permission-to-dance-cancion.png",
     "value": 4
   },
   {
     "name": "Proof (antología)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Proof'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Proof</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/proof-antologia.png",
     "value": 3
   },
   {
     "name": "Take Two (canción)",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Take'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Take</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/take-two-cancion.png",
     "value": 2
   },
   {
     "name": "Pista especial 2014-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2014-1.png",
     "value": 11
   },
   {
     "name": "Pista especial 2014-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2014-2.png",
     "value": 11
   },
   {
     "name": "Pista especial 2014-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2014-3.png",
     "value": 11
   },
   {
     "name": "Pista especial 2014-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2014-4.png",
     "value": 11
   },
   {
     "name": "Pista especial 2014-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2014-5.png",
     "value": 11
   },
   {
     "name": "Pista especial 2015-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2015-1.png",
     "value": 10
   },
   {
     "name": "Pista especial 2015-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2015-2.png",
     "value": 10
   },
   {
     "name": "Pista especial 2015-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2015-3.png",
     "value": 10
   },
   {
     "name": "Pista especial 2015-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2015-4.png",
     "value": 10
   },
   {
     "name": "Pista especial 2015-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2015-5.png",
     "value": 10
   },
   {
     "name": "Pista especial 2016-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2016-1.png",
     "value": 9
   },
   {
     "name": "Pista especial 2016-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2016-2.png",
     "value": 9
   },
   {
     "name": "Pista especial 2016-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2016-3.png",
     "value": 9
   },
   {
     "name": "Pista especial 2016-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2016-4.png",
     "value": 9
   },
   {
     "name": "Pista especial 2016-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2016-5.png",
     "value": 9
   },
   {
     "name": "Pista especial 2017-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2017-1.png",
     "value": 8
   },
   {
     "name": "Pista especial 2017-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2017-2.png",
     "value": 8
   },
   {
     "name": "Pista especial 2017-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2017-3.png",
     "value": 8
   },
   {
     "name": "Pista especial 2017-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2017-4.png",
     "value": 8
   },
   {
     "name": "Pista especial 2017-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2017-5.png",
     "value": 8
   },
   {
     "name": "Pista especial 2018-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2018-1.png",
     "value": 7
   },
   {
     "name": "Pista especial 2018-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2018-2.png",
     "value": 7
   },
   {
     "name": "Pista especial 2018-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2018-3.png",
     "value": 7
   },
   {
     "name": "Pista especial 2018-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2018-4.png",
     "value": 7
   },
   {
     "name": "Pista especial 2018-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2018-5.png",
     "value": 7
   },
   {
     "name": "Pista especial 2019-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2019-1.png",
     "value": 6
   },
   {
     "name": "Pista especial 2019-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2019-2.png",
     "value": 6
   },
   {
     "name": "Pista especial 2019-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2019-3.png",
     "value": 6
   },
   {
     "name": "Pista especial 2019-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2019-4.png",
     "value": 6
   },
   {
     "name": "Pista especial 2019-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2019-5.png",
     "value": 6
   },
   {
     "name": "Pista especial 2020-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2020-1.png",
     "value": 5
   },
   {
     "name": "Pista especial 2020-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2020-2.png",
     "value": 5
   },
   {
     "name": "Pista especial 2020-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2020-3.png",
     "value": 5
   },
   {
     "name": "Pista especial 2020-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2020-4.png",
     "value": 5
   },
   {
     "name": "Pista especial 2020-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2020-5.png",
     "value": 5
   },
   {
     "name": "Pista especial 2021-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2021-1.png",
     "value": 4
   },
   {
     "name": "Pista especial 2021-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2021-2.png",
     "value": 4
   },
   {
     "name": "Pista especial 2021-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2021-3.png",
     "value": 4
   },
   {
     "name": "Pista especial 2021-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2021-4.png",
     "value": 4
   },
   {
     "name": "Pista especial 2021-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2021-5.png",
     "value": 4
   },
   {
     "name": "Pista especial 2022-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2022-1.png",
     "value": 3
   },
   {
     "name": "Pista especial 2022-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2022-2.png",
     "value": 3
   },
   {
     "name": "Pista especial 2022-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2022-3.png",
     "value": 3
   },
   {
     "name": "Pista especial 2022-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2022-4.png",
     "value": 3
   },
   {
     "name": "Pista especial 2022-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2022-5.png",
     "value": 3
   },
   {
     "name": "Pista especial 2023-1",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2023-1.png",
     "value": 2
   },
   {
     "name": "Pista especial 2023-2",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2023-2.png",
     "value": 2
   },
   {
     "name": "Pista especial 2023-3",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2023-3.png",
     "value": 2
   },
   {
     "name": "Pista especial 2023-4",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2023-4.png",
     "value": 2
   },
   {
     "name": "Pista especial 2023-5",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Pista'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Pista</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "image": "assets/img/bts/pista-especial-2023-5.png",
     "value": 2
   },
   {
-    "name": "Lanzamiento inédito 2014-82",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 11
-  },
-  {
-    "name": "Lanzamiento inédito 2020-83",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "name": "BTS — Dynamite (2020)",
+    "image": "assets/img/bts/bts-dynamite-2020.png",
     "value": 5
   },
   {
-    "name": "Lanzamiento inédito 2024-84",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 1
-  },
-  {
-    "name": "Lanzamiento inédito 2020-85",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 5
-  },
-  {
-    "name": "Lanzamiento inédito 2021-86",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "name": "BTS — Butter (2021)",
+    "image": "assets/img/bts/bts-butter-2021.png",
     "value": 4
   },
   {
-    "name": "Lanzamiento inédito 2016-87",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 9
-  },
-  {
-    "name": "Lanzamiento inédito 2023-88",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 2
-  },
-  {
-    "name": "Lanzamiento inédito 2023-89",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 2
-  },
-  {
-    "name": "Lanzamiento inédito 2024-90",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 1
-  },
-  {
-    "name": "Lanzamiento inédito 2021-91",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 4
-  },
-  {
-    "name": "Lanzamiento inédito 2022-92",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 3
-  },
-  {
-    "name": "Lanzamiento inédito 2019-93",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "name": "BTS — Boy With Luv (2019)",
+    "image": "assets/img/bts/bts-boy-with-luv-2019.png",
     "value": 6
   },
   {
-    "name": "Lanzamiento inédito 2017-94",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "name": "BTS — Fake Love (2018)",
+    "image": "assets/img/bts/bts-fake-love-2018.png",
+    "value": 7
+  },
+  {
+    "name": "BTS — DNA (2017)",
+    "image": "assets/img/bts/bts-dna-2017.png",
     "value": 8
   },
   {
-    "name": "Lanzamiento inédito 2022-95",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 3
-  },
-  {
-    "name": "Lanzamiento inédito 2017-96",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 8
-  },
-  {
-    "name": "Lanzamiento inédito 2022-97",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
-    "value": 3
-  },
-  {
-    "name": "Lanzamiento inédito 2016-98",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "name": "BTS — Blood Sweat & Tears (2016)",
+    "image": "assets/img/bts/bts-blood-sweat-tears-2016.png",
     "value": 9
   },
   {
-    "name": "Lanzamiento inédito 2021-99",
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' width='800' height='600' role='img' aria-label='Lanzamiento'>    <defs>      <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>        <stop offset='0%' stop-color='#d8d3ff'/>        <stop offset='100%' stop-color='#bfe0ff'/>      </linearGradient>      <filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'>        <feDropShadow dx='0' dy='6' stdDeviation='12' flood-color='rgba(0,0,0,0.25)'/>      </filter>    </defs>    <rect x='0' y='0' width='800' height='600' rx='32' fill='url(#g)'/>    <g filter='url(#shadow)'>      <circle cx='400' cy='270' r='160' fill='white' opacity='0.9'/>    </g>    <text x='400' y='290' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='64' font-weight='700' fill='#222'>Lanzamiento</text>    <text x='400' y='360' text-anchor='middle' font-family='Inter, system-ui, Segoe UI, Roboto, Arial' font-size='28' font-weight='500' fill='#333' opacity='0.7'>BTS</text>  </svg>",
+    "name": "BTS — Idol (2018)",
+    "image": "assets/img/bts/bts-idol-2018.png",
+    "value": 7
+  },
+  {
+    "name": "BTS — Spring Day (2017)",
+    "image": "assets/img/bts/bts-spring-day-2017.png",
+    "value": 8
+  },
+  {
+    "name": "BTS — MIC Drop (2017)",
+    "image": "assets/img/bts/bts-mic-drop-2017.png",
+    "value": 8
+  },
+  {
+    "name": "BTS — Fire (2016)",
+    "image": "assets/img/bts/bts-fire-2016.png",
+    "value": 9
+  },
+  {
+    "name": "BTS — Save Me (2016)",
+    "image": "assets/img/bts/bts-save-me-2016.png",
+    "value": 9
+  },
+  {
+    "name": "BTS — Run BTS (2022)",
+    "image": "assets/img/bts/bts-run-bts-2022.png",
+    "value": 3
+  },
+  {
+    "name": "BTS — Permission to Dance (2021)",
+    "image": "assets/img/bts/bts-permission-to-dance-2021.png",
     "value": 4
+  },
+  {
+    "name": "Jin — The Astronaut (2022)",
+    "image": "assets/img/bts/jin-the-astronaut-2022.png",
+    "value": 3
+  },
+  {
+    "name": "Jimin — Like Crazy (2023)",
+    "image": "assets/img/bts/jimin-like-crazy-2023.png",
+    "value": 2
+  },
+  {
+    "name": "J-Hope — More (2022)",
+    "image": "assets/img/bts/j-hope-more-2022.png",
+    "value": 3
+  },
+  {
+    "name": "Suga — Daechwita (2020)",
+    "image": "assets/img/bts/suga-daechwita-2020.png",
+    "value": 5
+  },
+  {
+    "name": "RM — Wild Flower (2022)",
+    "image": "assets/img/bts/rm-wild-flower-2022.png",
+    "value": 3
   }
 ]
