@@ -1,502 +1,72 @@
-[
-  {
-    "name": "Jin",
-    "image": "assets/img/bts/jin.png",
-    "value": 33
-  },
-  {
-    "name": "Suga",
-    "image": "assets/img/bts/suga.png",
-    "value": 32
-  },
-  {
-    "name": "J-Hope",
-    "image": "assets/img/bts/j-hope.png",
-    "value": 31
-  },
-  {
-    "name": "RM",
-    "image": "assets/img/bts/rm.png",
-    "value": 31
-  },
-  {
-    "name": "Jimin",
-    "image": "assets/img/bts/jimin.png",
-    "value": 30
-  },
-  {
-    "name": "V",
-    "image": "assets/img/bts/v.png",
-    "value": 30
-  },
-  {
-    "name": "Jungkook",
-    "image": "assets/img/bts/jungkook.png",
-    "value": 28
-  },
-  {
-    "name": "No More Dream (canción)",
-    "image": "assets/img/bts/no-more-dream-cancion.png",
-    "value": 12
-  },
-  {
-    "name": "We Are Bulletproof Pt.2 (canción)",
-    "image": "assets/img/bts/we-are-bulletproof-pt-2-cancion.png",
-    "value": 12
-  },
-  {
-    "name": "Skool Luv Affair (álbum)",
-    "image": "assets/img/bts/skool-luv-affair-album.png",
-    "value": 11
-  },
-  {
-    "name": "Dark & Wild (álbum)",
-    "image": "assets/img/bts/dark-wild-album.png",
-    "value": 11
-  },
-  {
-    "name": "I Need U (canción)",
-    "image": "assets/img/bts/i-need-u-cancion.png",
-    "value": 10
-  },
-  {
-    "name": "The Most Beautiful Moment in Life, Pt.1 (EP)",
-    "image": "assets/img/bts/the-most-beautiful-moment-in-life-pt-1-ep.png",
-    "value": 10
-  },
-  {
-    "name": "Run (canción)",
-    "image": "assets/img/bts/run-cancion.png",
-    "value": 10
-  },
-  {
-    "name": "Fire (canción)",
-    "image": "assets/img/bts/fire-cancion.png",
-    "value": 9
-  },
-  {
-    "name": "Wings (álbum)",
-    "image": "assets/img/bts/wings-album.png",
-    "value": 9
-  },
-  {
-    "name": "Blood Sweat & Tears (canción)",
-    "image": "assets/img/bts/blood-sweat-tears-cancion.png",
-    "value": 9
-  },
-  {
-    "name": "Spring Day (canción)",
-    "image": "assets/img/bts/spring-day-cancion.png",
-    "value": 8
-  },
-  {
-    "name": "DNA (canción)",
-    "image": "assets/img/bts/dna-cancion.png",
-    "value": 8
-  },
-  {
-    "name": "Love Yourself: Her (álbum)",
-    "image": "assets/img/bts/love-yourself-her-album.png",
-    "value": 8
-  },
-  {
-    "name": "Love Yourself: Tear (álbum)",
-    "image": "assets/img/bts/love-yourself-tear-album.png",
-    "value": 7
-  },
-  {
-    "name": "Love Yourself: Answer (álbum)",
-    "image": "assets/img/bts/love-yourself-answer-album.png",
-    "value": 7
-  },
-  {
-    "name": "Fake Love (canción)",
-    "image": "assets/img/bts/fake-love-cancion.png",
-    "value": 7
-  },
-  {
-    "name": "Boy With Luv (canción)",
-    "image": "assets/img/bts/boy-with-luv-cancion.png",
-    "value": 6
-  },
-  {
-    "name": "Map of the Soul: Persona (EP)",
-    "image": "assets/img/bts/map-of-the-soul-persona-ep.png",
-    "value": 6
-  },
-  {
-    "name": "Map of the Soul: 7 (álbum)",
-    "image": "assets/img/bts/map-of-the-soul-7-album.png",
-    "value": 5
-  },
-  {
-    "name": "Dynamite (canción)",
-    "image": "assets/img/bts/dynamite-cancion.png",
-    "value": 5
-  },
-  {
-    "name": "BE (álbum)",
-    "image": "assets/img/bts/be-album.png",
-    "value": 5
-  },
-  {
-    "name": "Butter (canción)",
-    "image": "assets/img/bts/butter-cancion.png",
-    "value": 4
-  },
-  {
-    "name": "Permission to Dance (canción)",
-    "image": "assets/img/bts/permission-to-dance-cancion.png",
-    "value": 4
-  },
-  {
-    "name": "Proof (antología)",
-    "image": "assets/img/bts/proof-antologia.png",
-    "value": 3
-  },
-  {
-    "name": "Take Two (canción)",
-    "image": "assets/img/bts/take-two-cancion.png",
-    "value": 2
-  },
-  {
-    "name": "Pista especial 2014-1",
-    "image": "assets/img/bts/pista-especial-2014-1.png",
-    "value": 11
-  },
-  {
-    "name": "Pista especial 2014-2",
-    "image": "assets/img/bts/pista-especial-2014-2.png",
-    "value": 11
-  },
-  {
-    "name": "Pista especial 2014-3",
-    "image": "assets/img/bts/pista-especial-2014-3.png",
-    "value": 11
-  },
-  {
-    "name": "Pista especial 2014-4",
-    "image": "assets/img/bts/pista-especial-2014-4.png",
-    "value": 11
-  },
-  {
-    "name": "Pista especial 2014-5",
-    "image": "assets/img/bts/pista-especial-2014-5.png",
-    "value": 11
-  },
-  {
-    "name": "Pista especial 2015-1",
-    "image": "assets/img/bts/pista-especial-2015-1.png",
-    "value": 10
-  },
-  {
-    "name": "Pista especial 2015-2",
-    "image": "assets/img/bts/pista-especial-2015-2.png",
-    "value": 10
-  },
-  {
-    "name": "Pista especial 2015-3",
-    "image": "assets/img/bts/pista-especial-2015-3.png",
-    "value": 10
-  },
-  {
-    "name": "Pista especial 2015-4",
-    "image": "assets/img/bts/pista-especial-2015-4.png",
-    "value": 10
-  },
-  {
-    "name": "Pista especial 2015-5",
-    "image": "assets/img/bts/pista-especial-2015-5.png",
-    "value": 10
-  },
-  {
-    "name": "Pista especial 2016-1",
-    "image": "assets/img/bts/pista-especial-2016-1.png",
-    "value": 9
-  },
-  {
-    "name": "Pista especial 2016-2",
-    "image": "assets/img/bts/pista-especial-2016-2.png",
-    "value": 9
-  },
-  {
-    "name": "Pista especial 2016-3",
-    "image": "assets/img/bts/pista-especial-2016-3.png",
-    "value": 9
-  },
-  {
-    "name": "Pista especial 2016-4",
-    "image": "assets/img/bts/pista-especial-2016-4.png",
-    "value": 9
-  },
-  {
-    "name": "Pista especial 2016-5",
-    "image": "assets/img/bts/pista-especial-2016-5.png",
-    "value": 9
-  },
-  {
-    "name": "Pista especial 2017-1",
-    "image": "assets/img/bts/pista-especial-2017-1.png",
-    "value": 8
-  },
-  {
-    "name": "Pista especial 2017-2",
-    "image": "assets/img/bts/pista-especial-2017-2.png",
-    "value": 8
-  },
-  {
-    "name": "Pista especial 2017-3",
-    "image": "assets/img/bts/pista-especial-2017-3.png",
-    "value": 8
-  },
-  {
-    "name": "Pista especial 2017-4",
-    "image": "assets/img/bts/pista-especial-2017-4.png",
-    "value": 8
-  },
-  {
-    "name": "Pista especial 2017-5",
-    "image": "assets/img/bts/pista-especial-2017-5.png",
-    "value": 8
-  },
-  {
-    "name": "Pista especial 2018-1",
-    "image": "assets/img/bts/pista-especial-2018-1.png",
-    "value": 7
-  },
-  {
-    "name": "Pista especial 2018-2",
-    "image": "assets/img/bts/pista-especial-2018-2.png",
-    "value": 7
-  },
-  {
-    "name": "Pista especial 2018-3",
-    "image": "assets/img/bts/pista-especial-2018-3.png",
-    "value": 7
-  },
-  {
-    "name": "Pista especial 2018-4",
-    "image": "assets/img/bts/pista-especial-2018-4.png",
-    "value": 7
-  },
-  {
-    "name": "Pista especial 2018-5",
-    "image": "assets/img/bts/pista-especial-2018-5.png",
-    "value": 7
-  },
-  {
-    "name": "Pista especial 2019-1",
-    "image": "assets/img/bts/pista-especial-2019-1.png",
-    "value": 6
-  },
-  {
-    "name": "Pista especial 2019-2",
-    "image": "assets/img/bts/pista-especial-2019-2.png",
-    "value": 6
-  },
-  {
-    "name": "Pista especial 2019-3",
-    "image": "assets/img/bts/pista-especial-2019-3.png",
-    "value": 6
-  },
-  {
-    "name": "Pista especial 2019-4",
-    "image": "assets/img/bts/pista-especial-2019-4.png",
-    "value": 6
-  },
-  {
-    "name": "Pista especial 2019-5",
-    "image": "assets/img/bts/pista-especial-2019-5.png",
-    "value": 6
-  },
-  {
-    "name": "Pista especial 2020-1",
-    "image": "assets/img/bts/pista-especial-2020-1.png",
-    "value": 5
-  },
-  {
-    "name": "Pista especial 2020-2",
-    "image": "assets/img/bts/pista-especial-2020-2.png",
-    "value": 5
-  },
-  {
-    "name": "Pista especial 2020-3",
-    "image": "assets/img/bts/pista-especial-2020-3.png",
-    "value": 5
-  },
-  {
-    "name": "Pista especial 2020-4",
-    "image": "assets/img/bts/pista-especial-2020-4.png",
-    "value": 5
-  },
-  {
-    "name": "Pista especial 2020-5",
-    "image": "assets/img/bts/pista-especial-2020-5.png",
-    "value": 5
-  },
-  {
-    "name": "Pista especial 2021-1",
-    "image": "assets/img/bts/pista-especial-2021-1.png",
-    "value": 4
-  },
-  {
-    "name": "Pista especial 2021-2",
-    "image": "assets/img/bts/pista-especial-2021-2.png",
-    "value": 4
-  },
-  {
-    "name": "Pista especial 2021-3",
-    "image": "assets/img/bts/pista-especial-2021-3.png",
-    "value": 4
-  },
-  {
-    "name": "Pista especial 2021-4",
-    "image": "assets/img/bts/pista-especial-2021-4.png",
-    "value": 4
-  },
-  {
-    "name": "Pista especial 2021-5",
-    "image": "assets/img/bts/pista-especial-2021-5.png",
-    "value": 4
-  },
-  {
-    "name": "Pista especial 2022-1",
-    "image": "assets/img/bts/pista-especial-2022-1.png",
-    "value": 3
-  },
-  {
-    "name": "Pista especial 2022-2",
-    "image": "assets/img/bts/pista-especial-2022-2.png",
-    "value": 3
-  },
-  {
-    "name": "Pista especial 2022-3",
-    "image": "assets/img/bts/pista-especial-2022-3.png",
-    "value": 3
-  },
-  {
-    "name": "Pista especial 2022-4",
-    "image": "assets/img/bts/pista-especial-2022-4.png",
-    "value": 3
-  },
-  {
-    "name": "Pista especial 2022-5",
-    "image": "assets/img/bts/pista-especial-2022-5.png",
-    "value": 3
-  },
-  {
-    "name": "Pista especial 2023-1",
-    "image": "assets/img/bts/pista-especial-2023-1.png",
-    "value": 2
-  },
-  {
-    "name": "Pista especial 2023-2",
-    "image": "assets/img/bts/pista-especial-2023-2.png",
-    "value": 2
-  },
-  {
-    "name": "Pista especial 2023-3",
-    "image": "assets/img/bts/pista-especial-2023-3.png",
-    "value": 2
-  },
-  {
-    "name": "Pista especial 2023-4",
-    "image": "assets/img/bts/pista-especial-2023-4.png",
-    "value": 2
-  },
-  {
-    "name": "Pista especial 2023-5",
-    "image": "assets/img/bts/pista-especial-2023-5.png",
-    "value": 2
-  },
-  {
-    "name": "BTS — Dynamite (2020)",
-    "image": "assets/img/bts/bts-dynamite-2020.png",
-    "value": 5
-  },
-  {
-    "name": "BTS — Butter (2021)",
-    "image": "assets/img/bts/bts-butter-2021.png",
-    "value": 4
-  },
-  {
-    "name": "BTS — Boy With Luv (2019)",
-    "image": "assets/img/bts/bts-boy-with-luv-2019.png",
-    "value": 6
-  },
-  {
-    "name": "BTS — Fake Love (2018)",
-    "image": "assets/img/bts/bts-fake-love-2018.png",
-    "value": 7
-  },
-  {
-    "name": "BTS — DNA (2017)",
-    "image": "assets/img/bts/bts-dna-2017.png",
-    "value": 8
-  },
-  {
-    "name": "BTS — Blood Sweat & Tears (2016)",
-    "image": "assets/img/bts/bts-blood-sweat-tears-2016.png",
-    "value": 9
-  },
-  {
-    "name": "BTS — Idol (2018)",
-    "image": "assets/img/bts/bts-idol-2018.png",
-    "value": 7
-  },
-  {
-    "name": "BTS — Spring Day (2017)",
-    "image": "assets/img/bts/bts-spring-day-2017.png",
-    "value": 8
-  },
-  {
-    "name": "BTS — MIC Drop (2017)",
-    "image": "assets/img/bts/bts-mic-drop-2017.png",
-    "value": 8
-  },
-  {
-    "name": "BTS — Fire (2016)",
-    "image": "assets/img/bts/bts-fire-2016.png",
-    "value": 9
-  },
-  {
-    "name": "BTS — Save Me (2016)",
-    "image": "assets/img/bts/bts-save-me-2016.png",
-    "value": 9
-  },
-  {
-    "name": "BTS — Run BTS (2022)",
-    "image": "assets/img/bts/bts-run-bts-2022.png",
-    "value": 3
-  },
-  {
-    "name": "BTS — Permission to Dance (2021)",
-    "image": "assets/img/bts/bts-permission-to-dance-2021.png",
-    "value": 4
-  },
-  {
-    "name": "Jin — The Astronaut (2022)",
-    "image": "assets/img/bts/jin-the-astronaut-2022.png",
-    "value": 3
-  },
-  {
-    "name": "Jimin — Like Crazy (2023)",
-    "image": "assets/img/bts/jimin-like-crazy-2023.png",
-    "value": 2
-  },
-  {
-    "name": "J-Hope — More (2022)",
-    "image": "assets/img/bts/j-hope-more-2022.png",
-    "value": 3
-  },
-  {
-    "name": "Suga — Daechwita (2020)",
-    "image": "assets/img/bts/suga-daechwita-2020.png",
-    "value": 5
-  },
-  {
-    "name": "RM — Wild Flower (2022)",
-    "image": "assets/img/bts/rm-wild-flower-2022.png",
-    "value": 3
-  }
-]
+{
+  "question": "¿Qué ítem BTS tiene una cifra mayor?",
+  "unitNote": "Índice ficticio de streams/seguidores (0–100).",
+  "items": [
+    {
+      "name": "Jin",
+      "subtitle": "Miembro",
+      "value": 88,
+      "emoji": "🧑‍🎤"
+    },
+    {
+      "name": "Suga",
+      "subtitle": "Miembro",
+      "value": 92,
+      "emoji": "🎹"
+    },
+    {
+      "name": "J-Hope",
+      "subtitle": "Miembro",
+      "value": 90,
+      "emoji": "🕺"
+    },
+    {
+      "name": "RM",
+      "subtitle": "Miembro",
+      "value": 91,
+      "emoji": "🧠"
+    },
+    {
+      "name": "Jimin",
+      "subtitle": "Miembro",
+      "value": 95,
+      "emoji": "✨"
+    },
+    {
+      "name": "V",
+      "subtitle": "Miembro",
+      "value": 94,
+      "emoji": "🎤"
+    },
+    {
+      "name": "Jungkook",
+      "subtitle": "Miembro",
+      "value": 98,
+      "emoji": "🌟"
+    },
+    {
+      "name": "Dynamite",
+      "subtitle": "Single",
+      "value": 97,
+      "emoji": "💥"
+    },
+    {
+      "name": "Butter",
+      "subtitle": "Single",
+      "value": 96,
+      "emoji": "🧈"
+    },
+    {
+      "name": "Boy With Luv",
+      "subtitle": "Single",
+      "value": 94,
+      "emoji": "💗"
+    },
+    {
+      "name": "Spring Day",
+      "subtitle": "Single",
+      "value": 92,
+      "emoji": "🌸"
+    }
+  ]
+}

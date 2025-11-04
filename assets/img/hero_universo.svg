@@ -1,0 +1,25 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="gal" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="40%" stop-color="#d7b3ff"/>
+      <stop offset="80%" stop-color="#a3c4ff"/>
+      <stop offset="100%" stop-color="#ffc2e9"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#f7f8fc"/>
+  <g transform="translate(800,250)">
+    <ellipse rx="420" ry="160" fill="url(#gal)" opacity="0.65" filter="url(#soft)"/>
+    <ellipse rx="300" ry="120" fill="url(#gal)" opacity="0.6" filter="url(#soft)" transform="rotate(25)"/>
+    <circle r="70" fill="white" opacity="0.85"/>
+  </g>
+  <g fill="#0b1020" opacity="0.15">
+    {"".join([f'<circle cx="{x}" cy="{y}" r="{r}"/>' for x,y,r in [(100,80,2),(250,120,2),(1400,90,2),(1200,60,2),(300,430,2),(1450,400,2),(900,420,2)]])}
+  </g>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Inter, system-ui, Segoe UI, Roboto, Arial"
+        font-size="36" fill="#0b1020" opacity="0.75">Universo — galaxia ilustrada</text>
+</svg>

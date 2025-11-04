@@ -1,0 +1,16 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="m1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffc2e9"/>
+      <stop offset="100%" stop-color="#a3c4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#m1)"/>
+  <g transform="translate(800,270)" opacity="0.9">
+    <path d="M-60,100 L60,100 L40,40 L30,-20 L0,-50 L-30,-20 L-40,40 Z" fill="#0b1020" opacity="0.85"/>
+    <circle cx="0" cy="-85" r="26" fill="#0b1020" opacity="0.85"/>
+  </g>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Inter, system-ui, Segoe UI, Roboto, Arial"
+        font-size="36" fill="#0b1020" opacity="0.75">Marvel — silueta heroica</text>
+</svg>

@@ -1,0 +1,96 @@
+{
+  "question": "¿Qué fenómeno/cosa tiene una cantidad mayor?",
+  "unitNote": "Magnitudes estimadas, a escala comparativa.",
+  "items": [
+    {
+      "name": "Átomos en una gota de agua",
+      "subtitle": "~0.05 ml",
+      "value": 1.6e+21,
+      "emoji": "💧"
+    },
+    {
+      "name": "Estrellas en la Vía Láctea",
+      "subtitle": "Rango estimado",
+      "value": 100000000000.0,
+      "emoji": "🌌"
+    },
+    {
+      "name": "Galaxias en el universo observable",
+      "subtitle": "Estimación",
+      "value": 2000000000000.0,
+      "emoji": "🌀"
+    },
+    {
+      "name": "Granos de arena en la Tierra",
+      "subtitle": "Aproximación",
+      "value": 7.5e+18,
+      "emoji": "🏖️"
+    },
+    {
+      "name": "Neuronas en el cerebro humano",
+      "subtitle": "Promedio",
+      "value": 86000000000.0,
+      "emoji": "🧠"
+    },
+    {
+      "name": "Bacterias en el cuerpo humano",
+      "subtitle": "Aproximación",
+      "value": 38000000000000.0,
+      "emoji": "🦠"
+    },
+    {
+      "name": "Segundos en un siglo",
+      "subtitle": "100 años",
+      "value": 3150000000.0,
+      "emoji": "⏳"
+    },
+    {
+      "name": "Velocidad de la luz",
+      "subtitle": "m/s",
+      "value": 299792458.0,
+      "emoji": "⚡"
+    },
+    {
+      "name": "Electrones en 1 culombio",
+      "subtitle": "carga elemental",
+      "value": 6.24e+18,
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Distancia Tierra–Sol",
+      "subtitle": "en metros (UA)",
+      "value": 149600000000.0,
+      "emoji": "☀️"
+    },
+    {
+      "name": "Número de Avogadro",
+      "subtitle": "1 mol",
+      "value": 6.022e+23,
+      "emoji": "🧪"
+    },
+    {
+      "name": "Gotas en una nube cumulonimbus",
+      "subtitle": "orden de magnitud",
+      "value": 1e+21,
+      "emoji": "☁️"
+    },
+    {
+      "name": "Olas en todas las playas en un día",
+      "subtitle": "aprox.",
+      "value": 2000000000.0,
+      "emoji": "🌊"
+    },
+    {
+      "name": "Bits en 1 TB",
+      "subtitle": "8e12 bits",
+      "value": 8000000000000.0,
+      "emoji": "💾"
+    },
+    {
+      "name": "Pasos en un maratón",
+      "subtitle": "42 km aprox.",
+      "value": 55000,
+      "emoji": "🏃"
+    }
+  ]
+}

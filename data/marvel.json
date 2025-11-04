@@ -1,517 +1,90 @@
-[
-  {
-    "name": "The One Above All",
-    "image": "assets/img/marvel/the-one-above-all.png",
-    "value": 100
-  },
-  {
-    "name": "The Presence (Marvel)",
-    "image": "assets/img/marvel/the-presence-marvel.png",
-    "value": 99
-  },
-  {
-    "name": "Living Tribunal",
-    "image": "assets/img/marvel/living-tribunal.png",
-    "value": 98
-  },
-  {
-    "name": "Beyonder",
-    "image": "assets/img/marvel/beyonder.png",
-    "value": 97
-  },
-  {
-    "name": "Molecule Man",
-    "image": "assets/img/marvel/molecule-man.png",
-    "value": 96
-  },
-  {
-    "name": "Eternity",
-    "image": "assets/img/marvel/eternity.png",
-    "value": 95
-  },
-  {
-    "name": "Infinity",
-    "image": "assets/img/marvel/infinity.png",
-    "value": 95
-  },
-  {
-    "name": "Galactus (Full Power)",
-    "image": "assets/img/marvel/galactus-full-power.png",
-    "value": 94
-  },
-  {
-    "name": "Oblivion",
-    "image": "assets/img/marvel/oblivion.png",
-    "value": 94
-  },
-  {
-    "name": "Phoenix Force (White)",
-    "image": "assets/img/marvel/phoenix-force-white.png",
-    "value": 93
-  },
-  {
-    "name": "Franklin Richards",
-    "image": "assets/img/marvel/franklin-richards.png",
-    "value": 92
-  },
-  {
-    "name": "Celestials (Host)",
-    "image": "assets/img/marvel/celestials-host.png",
-    "value": 91
-  },
-  {
-    "name": "Heart of the Universe Thanos",
-    "image": "assets/img/marvel/heart-of-the-universe-thanos.png",
-    "value": 91
-  },
-  {
-    "name": "Lord Chaos & Master Order",
-    "image": "assets/img/marvel/lord-chaos-master-order.png",
-    "value": 90
-  },
-  {
-    "name": "The Fulcrum",
-    "image": "assets/img/marvel/the-fulcrum.png",
-    "value": 90
-  },
-  {
-    "name": "Death (Marvel)",
-    "image": "assets/img/marvel/death-marvel.png",
-    "value": 90
-  },
-  {
-    "name": "Phoenix Force (Dark)",
-    "image": "assets/img/marvel/phoenix-force-dark.png",
-    "value": 89
-  },
-  {
-    "name": "Rune King Thor",
-    "image": "assets/img/marvel/rune-king-thor.png",
-    "value": 89
-  },
-  {
-    "name": "Chaos War Hercules",
-    "image": "assets/img/marvel/chaos-war-hercules.png",
-    "value": 88
-  },
-  {
-    "name": "Worldbreaker Hulk",
-    "image": "assets/img/marvel/worldbreaker-hulk.png",
-    "value": 88
-  },
-  {
-    "name": "Classic Doctor Strange (Eternity scale)",
-    "image": "assets/img/marvel/classic-doctor-strange-eternity-scale.png",
-    "value": 87
-  },
-  {
-    "name": "Sentry (The Void)",
-    "image": "assets/img/marvel/sentry-the-void.png",
-    "value": 87
-  },
-  {
-    "name": "Silver Surfer (amped)",
-    "image": "assets/img/marvel/silver-surfer-amped.png",
-    "value": 86
-  },
-  {
-    "name": "Blue Marvel",
-    "image": "assets/img/marvel/blue-marvel.png",
-    "value": 85
-  },
-  {
-    "name": "Scarlet Witch (House of M)",
-    "image": "assets/img/marvel/scarlet-witch-house-of-m.png",
-    "value": 85
-  },
-  {
-    "name": "Adam Warlock (Soul Gem)",
-    "image": "assets/img/marvel/adam-warlock-soul-gem.png",
-    "value": 84
-  },
-  {
-    "name": "Doctor Doom (God Emperor)",
-    "image": "assets/img/marvel/doctor-doom-god-emperor.png",
-    "value": 84
-  },
-  {
-    "name": "Thanos (IG incomplete)",
-    "image": "assets/img/marvel/thanos-ig-incomplete.png",
-    "value": 83
-  },
-  {
-    "name": "Thor (Odinforce)",
-    "image": "assets/img/marvel/thor-odinforce.png",
-    "value": 83
-  },
-  {
-    "name": "Odin",
-    "image": "assets/img/marvel/odin.png",
-    "value": 82
-  },
-  {
-    "name": "Zeus (Marvel)",
-    "image": "assets/img/marvel/zeus-marvel.png",
-    "value": 81
-  },
-  {
-    "name": "Hulk (Immortal)",
-    "image": "assets/img/marvel/hulk-immortal.png",
-    "value": 80
-  },
-  {
-    "name": "Hyperion",
-    "image": "assets/img/marvel/hyperion.png",
-    "value": 79
-  },
-  {
-    "name": "Beta Ray Bill",
-    "image": "assets/img/marvel/beta-ray-bill.png",
-    "value": 78
-  },
-  {
-    "name": "Magneto",
-    "image": "assets/img/marvel/magneto.png",
-    "value": 77
-  },
-  {
-    "name": "Doctor Strange",
-    "image": "assets/img/marvel/doctor-strange.png",
-    "value": 76
-  },
-  {
-    "name": "Captain Marvel (Carol Danvers)",
-    "image": "assets/img/marvel/captain-marvel-carol-danvers.png",
-    "value": 75
-  },
-  {
-    "name": "Gladiator",
-    "image": "assets/img/marvel/gladiator.png",
-    "value": 75
-  },
-  {
-    "name": "Ikaris",
-    "image": "assets/img/marvel/ikaris.png",
-    "value": 74
-  },
-  {
-    "name": "Apocalypse",
-    "image": "assets/img/marvel/apocalypse.png",
-    "value": 74
-  },
-  {
-    "name": "Namor (amped)",
-    "image": "assets/img/marvel/namor-amped.png",
-    "value": 73
-  },
-  {
-    "name": "Storm (Omega)",
-    "image": "assets/img/marvel/storm-omega.png",
-    "value": 73
-  },
-  {
-    "name": "Iron Man (Bleeding Edge)",
-    "image": "assets/img/marvel/iron-man-bleeding-edge.png",
-    "value": 72
-  },
-  {
-    "name": "Black Bolt",
-    "image": "assets/img/marvel/black-bolt.png",
-    "value": 72
-  },
-  {
-    "name": "Ghost Rider (Johnny Blaze)",
-    "image": "assets/img/marvel/ghost-rider-johnny-blaze.png",
-    "value": 71
-  },
-  {
-    "name": "Spider-Man (Peter Parker)",
-    "image": "assets/img/marvel/spider-man-peter-parker.png",
-    "value": 70
-  },
-  {
-    "name": "Venom (Eddie Brock, King in Black)",
-    "image": "assets/img/marvel/venom-eddie-brock-king-in-black.png",
-    "value": 78
-  },
-  {
-    "name": "Knull",
-    "image": "assets/img/marvel/knull.png",
-    "value": 90
-  },
-  {
-    "name": "Wolverine",
-    "image": "assets/img/marvel/wolverine.png",
-    "value": 68
-  },
-  {
-    "name": "Deadpool",
-    "image": "assets/img/marvel/deadpool.png",
-    "value": 68
-  },
-  {
-    "name": "Daredevil",
-    "image": "assets/img/marvel/daredevil.png",
-    "value": 60
-  },
-  {
-    "name": "Punisher",
-    "image": "assets/img/marvel/punisher.png",
-    "value": 58
-  },
-  {
-    "name": "Hawkeye",
-    "image": "assets/img/marvel/hawkeye.png",
-    "value": 57
-  },
-  {
-    "name": "Ant-Man (Scott Lang)",
-    "image": "assets/img/marvel/ant-man-scott-lang.png",
-    "value": 60
-  },
-  {
-    "name": "Wasp (Janet)",
-    "image": "assets/img/marvel/wasp-janet.png",
-    "value": 62
-  },
-  {
-    "name": "Vision",
-    "image": "assets/img/marvel/vision.png",
-    "value": 72
-  },
-  {
-    "name": "Quicksilver",
-    "image": "assets/img/marvel/quicksilver.png",
-    "value": 70
-  },
-  {
-    "name": "Colossus",
-    "image": "assets/img/marvel/colossus.png",
-    "value": 70
-  },
-  {
-    "name": "Juggernaut",
-    "image": "assets/img/marvel/juggernaut.png",
-    "value": 79
-  },
-  {
-    "name": "Professor X",
-    "image": "assets/img/marvel/professor-x.png",
-    "value": 74
-  },
-  {
-    "name": "Jean Grey (Omega)",
-    "image": "assets/img/marvel/jean-grey-omega.png",
-    "value": 84
-  },
-  {
-    "name": "Emma Frost",
-    "image": "assets/img/marvel/emma-frost.png",
-    "value": 72
-  },
-  {
-    "name": "Rogue",
-    "image": "assets/img/marvel/rogue.png",
-    "value": 71
-  },
-  {
-    "name": "Cable",
-    "image": "assets/img/marvel/cable.png",
-    "value": 74
-  },
-  {
-    "name": "Bishop",
-    "image": "assets/img/marvel/bishop.png",
-    "value": 70
-  },
-  {
-    "name": "Captain America",
-    "image": "assets/img/marvel/captain-america.png",
-    "value": 65
-  },
-  {
-    "name": "Winter Soldier",
-    "image": "assets/img/marvel/winter-soldier.png",
-    "value": 64
-  },
-  {
-    "name": "Black Panther",
-    "image": "assets/img/marvel/black-panther.png",
-    "value": 70
-  },
-  {
-    "name": "Shang-Chi",
-    "image": "assets/img/marvel/shang-chi.png",
-    "value": 66
-  },
-  {
-    "name": "Moon Knight",
-    "image": "assets/img/marvel/moon-knight.png",
-    "value": 66
-  },
-  {
-    "name": "She-Hulk",
-    "image": "assets/img/marvel/she-hulk.png",
-    "value": 73
-  },
-  {
-    "name": "Ms. Marvel (Kamala)",
-    "image": "assets/img/marvel/ms-marvel-kamala.png",
-    "value": 63
-  },
-  {
-    "name": "America Chavez",
-    "image": "assets/img/marvel/america-chavez.png",
-    "value": 74
-  },
-  {
-    "name": "Loki",
-    "image": "assets/img/marvel/loki.png",
-    "value": 80
-  },
-  {
-    "name": "Hela",
-    "image": "assets/img/marvel/hela.png",
-    "value": 82
-  },
-  {
-    "name": "Surtur",
-    "image": "assets/img/marvel/surtur.png",
-    "value": 88
-  },
-  {
-    "name": "Dormammu",
-    "image": "assets/img/marvel/dormammu.png",
-    "value": 90
-  },
-  {
-    "name": "Mephisto",
-    "image": "assets/img/marvel/mephisto.png",
-    "value": 86
-  },
-  {
-    "name": "Ultron",
-    "image": "assets/img/marvel/ultron.png",
-    "value": 76
-  },
-  {
-    "name": "Kang the Conqueror",
-    "image": "assets/img/marvel/kang-the-conqueror.png",
-    "value": 80
-  },
-  {
-    "name": "Doctor Octopus",
-    "image": "assets/img/marvel/doctor-octopus.png",
-    "value": 65
-  },
-  {
-    "name": "Green Goblin",
-    "image": "assets/img/marvel/green-goblin.png",
-    "value": 64
-  },
-  {
-    "name": "Mysterio",
-    "image": "assets/img/marvel/mysterio.png",
-    "value": 60
-  },
-  {
-    "name": "Electro",
-    "image": "assets/img/marvel/electro.png",
-    "value": 62
-  },
-  {
-    "name": "Sandman",
-    "image": "assets/img/marvel/sandman.png",
-    "value": 66
-  },
-  {
-    "name": "Carnage",
-    "image": "assets/img/marvel/carnage.png",
-    "value": 74
-  },
-  {
-    "name": "Miles Morales",
-    "image": "assets/img/marvel/miles-morales.png",
-    "value": 69
-  },
-  {
-    "name": "Gwen Stacy (Spider-Gwen)",
-    "image": "assets/img/marvel/gwen-stacy-spider-gwen.png",
-    "value": 68
-  },
-  {
-    "name": "Star-Lord",
-    "image": "assets/img/marvel/star-lord.png",
-    "value": 64
-  },
-  {
-    "name": "Gamora",
-    "image": "assets/img/marvel/gamora.png",
-    "value": 70
-  },
-  {
-    "name": "Drax",
-    "image": "assets/img/marvel/drax.png",
-    "value": 69
-  },
-  {
-    "name": "Groot",
-    "image": "assets/img/marvel/groot.png",
-    "value": 68
-  },
-  {
-    "name": "Rocket Raccoon",
-    "image": "assets/img/marvel/rocket-raccoon.png",
-    "value": 60
-  },
-  {
-    "name": "Yondu",
-    "image": "assets/img/marvel/yondu.png",
-    "value": 60
-  },
-  {
-    "name": "Nebula",
-    "image": "assets/img/marvel/nebula.png",
-    "value": 68
-  },
-  {
-    "name": "Nick Fury",
-    "image": "assets/img/marvel/nick-fury.png",
-    "value": 58
-  },
-  {
-    "name": "Phil Coulson",
-    "image": "assets/img/marvel/phil-coulson.png",
-    "value": 55
-  },
-  {
-    "name": "Agent Carter",
-    "image": "assets/img/marvel/agent-carter.png",
-    "value": 56
-  },
-  {
-    "name": "Luke Cage",
-    "image": "assets/img/marvel/luke-cage.png",
-    "value": 72
-  },
-  {
-    "name": "Iron Fist",
-    "image": "assets/img/marvel/iron-fist.png",
-    "value": 70
-  },
-  {
-    "name": "Blade",
-    "image": "assets/img/marvel/blade.png",
-    "value": 69
-  },
-  {
-    "name": "Silver Samurai",
-    "image": "assets/img/marvel/silver-samurai.png",
-    "value": 67
-  },
-  {
-    "name": "Kitty Pryde",
-    "image": "assets/img/marvel/kitty-pryde.png",
-    "value": 67
-  }
-]
+{
+  "question": "¿Qué personaje tiene un poder/popularidad mayor?",
+  "unitNote": "Índice ficticio de poder/popularidad (0–100).",
+  "items": [
+    {
+      "name": "Spider-Man",
+      "subtitle": "Peter Parker",
+      "value": 92,
+      "emoji": "🕷️"
+    },
+    {
+      "name": "Iron Man",
+      "subtitle": "Tony Stark",
+      "value": 90,
+      "emoji": "🤖"
+    },
+    {
+      "name": "Thor",
+      "subtitle": "Dios del Trueno",
+      "value": 95,
+      "emoji": "⚡"
+    },
+    {
+      "name": "Hulk",
+      "subtitle": "Bruce Banner",
+      "value": 96,
+      "emoji": "💚"
+    },
+    {
+      "name": "Capitán América",
+      "subtitle": "Steve Rogers",
+      "value": 88,
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Black Widow",
+      "subtitle": "Natasha Romanoff",
+      "value": 82,
+      "emoji": "🕶️"
+    },
+    {
+      "name": "Doctor Strange",
+      "subtitle": "Hechicero Supremo",
+      "value": 94,
+      "emoji": "🌀"
+    },
+    {
+      "name": "Wanda Maximoff",
+      "subtitle": "Scarlet Witch",
+      "value": 97,
+      "emoji": "🔮"
+    },
+    {
+      "name": "Loki",
+      "subtitle": "Dios del Engaño",
+      "value": 89,
+      "emoji": "🗡️"
+    },
+    {
+      "name": "Black Panther",
+      "subtitle": "T'Challa",
+      "value": 86,
+      "emoji": "🐾"
+    },
+    {
+      "name": "Ant-Man",
+      "subtitle": "Scott Lang",
+      "value": 80,
+      "emoji": "🐜"
+    },
+    {
+      "name": "Captain Marvel",
+      "subtitle": "Carol Danvers",
+      "value": 96,
+      "emoji": "🌟"
+    },
+    {
+      "name": "Thanos",
+      "subtitle": "Titán loco",
+      "value": 99,
+      "emoji": "💎"
+    },
+    {
+      "name": "Hawkeye",
+      "subtitle": "Clint Barton",
+      "value": 79,
+      "emoji": "🏹"
+    }
+  ]
+}

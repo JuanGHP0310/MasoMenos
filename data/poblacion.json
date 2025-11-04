@@ -1,0 +1,228 @@
+{
+  "question": "¿En qué país hay más población?",
+  "unitNote": "Población total (estimación 2025).",
+  "items": [
+    {
+      "name": "India",
+      "subtitle": "Asia",
+      "value": 1420000000,
+      "emoji": "🇮🇳"
+    },
+    {
+      "name": "China",
+      "subtitle": "Asia",
+      "value": 1410000000,
+      "emoji": "🇨🇳"
+    },
+    {
+      "name": "Estados Unidos",
+      "subtitle": "América",
+      "value": 342000000,
+      "emoji": "🇺🇸"
+    },
+    {
+      "name": "Indonesia",
+      "subtitle": "Asia",
+      "value": 283000000,
+      "emoji": "🇮🇩"
+    },
+    {
+      "name": "Pakistán",
+      "subtitle": "Asia",
+      "value": 249000000,
+      "emoji": "🇵🇰"
+    },
+    {
+      "name": "Nigeria",
+      "subtitle": "África",
+      "value": 232000000,
+      "emoji": "🇳🇬"
+    },
+    {
+      "name": "Brasil",
+      "subtitle": "América",
+      "value": 216000000,
+      "emoji": "🇧🇷"
+    },
+    {
+      "name": "Bangladés",
+      "subtitle": "Asia",
+      "value": 173000000,
+      "emoji": "🇧🇩"
+    },
+    {
+      "name": "Rusia",
+      "subtitle": "Europa/Asia",
+      "value": 144000000,
+      "emoji": "🇷🇺"
+    },
+    {
+      "name": "México",
+      "subtitle": "América",
+      "value": 130000000,
+      "emoji": "🇲🇽"
+    },
+    {
+      "name": "Japón",
+      "subtitle": "Asia",
+      "value": 123000000,
+      "emoji": "🇯🇵"
+    },
+    {
+      "name": "Etiopía",
+      "subtitle": "África",
+      "value": 126000000,
+      "emoji": "🇪🇹"
+    },
+    {
+      "name": "Filipinas",
+      "subtitle": "Asia",
+      "value": 117000000,
+      "emoji": "🇵🇭"
+    },
+    {
+      "name": "Egipto",
+      "subtitle": "África",
+      "value": 113000000,
+      "emoji": "🇪🇬"
+    },
+    {
+      "name": "Vietnam",
+      "subtitle": "Asia",
+      "value": 100000000,
+      "emoji": "🇻🇳"
+    },
+    {
+      "name": "Turquía",
+      "subtitle": "Europa/Asia",
+      "value": 87000000,
+      "emoji": "🇹🇷"
+    },
+    {
+      "name": "Irán",
+      "subtitle": "Asia",
+      "value": 89000000,
+      "emoji": "🇮🇷"
+    },
+    {
+      "name": "Alemania",
+      "subtitle": "Europa",
+      "value": 84000000,
+      "emoji": "🇩🇪"
+    },
+    {
+      "name": "Tailandia",
+      "subtitle": "Asia",
+      "value": 72000000,
+      "emoji": "🇹🇭"
+    },
+    {
+      "name": "Reino Unido",
+      "subtitle": "Europa",
+      "value": 69000000,
+      "emoji": "🇬🇧"
+    },
+    {
+      "name": "Francia",
+      "subtitle": "Europa",
+      "value": 68000000,
+      "emoji": "🇫🇷"
+    },
+    {
+      "name": "Italia",
+      "subtitle": "Europa",
+      "value": 59000000,
+      "emoji": "🇮🇹"
+    },
+    {
+      "name": "Sudáfrica",
+      "subtitle": "África",
+      "value": 62000000,
+      "emoji": "🇿🇦"
+    },
+    {
+      "name": "Corea del Sur",
+      "subtitle": "Asia",
+      "value": 52000000,
+      "emoji": "🇰🇷"
+    },
+    {
+      "name": "España",
+      "subtitle": "Europa",
+      "value": 48500000,
+      "emoji": "🇪🇸"
+    },
+    {
+      "name": "Colombia",
+      "subtitle": "América",
+      "value": 52500000,
+      "emoji": "🇨🇴"
+    },
+    {
+      "name": "Argentina",
+      "subtitle": "América",
+      "value": 45000000,
+      "emoji": "🇦🇷"
+    },
+    {
+      "name": "Ucrania",
+      "subtitle": "Europa",
+      "value": 36500000,
+      "emoji": "🇺🇦"
+    },
+    {
+      "name": "Canadá",
+      "subtitle": "América",
+      "value": 41000000,
+      "emoji": "🇨🇦"
+    },
+    {
+      "name": "Polonia",
+      "subtitle": "Europa",
+      "value": 38000000,
+      "emoji": "🇵🇱"
+    },
+    {
+      "name": "Perú",
+      "subtitle": "América",
+      "value": 34000000,
+      "emoji": "🇵🇪"
+    },
+    {
+      "name": "Arabia Saudí",
+      "subtitle": "Asia",
+      "value": 36000000,
+      "emoji": "🇸🇦"
+    },
+    {
+      "name": "Chile",
+      "subtitle": "América",
+      "value": 20000000,
+      "emoji": "🇨🇱"
+    },
+    {
+      "name": "Países Bajos",
+      "subtitle": "Europa",
+      "value": 17800000,
+      "emoji": "🇳🇱"
+    },
+    {
+      "name": "Grecia",
+      "subtitle": "Europa",
+      "value": 10400000,
+      "emoji": "🇬🇷"
+    },
+    {
+      "name": "Portugal",
+      "subtitle": "Europa",
+      "value": 10300000,
+      "emoji": "🇵🇹"
+    },
+    {
+      "name": "Cuba",
+      "subtitle": "América",
+      "value": 11200000,
+      "emoji": "🇨🇺"
+    }
+  ]
+}
